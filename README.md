@@ -69,21 +69,21 @@ A modern, responsive food ordering web application built with React, TypeScript,
 ### Home Page
 The landing page featuring the search bar and app download section.
 
-![Home Page](<!-- Add screenshot: screenshots/home-page.png -->)
+![Home Page](./public/Home_Page.png)
 
 ---
 
 ### Search Results Page
 Restaurant search results with cuisine filters and sorting options.
 
-![Search Results](<!-- Add screenshot: screenshots/search-results.png -->)
+![Search Results](./public/Restaurant_List_Page.png)
 
 ---
 
 ### Restaurant Detail Page
 Individual restaurant view with menu items and order summary.
 
-![Restaurant Detail](<!-- Add screenshot: screenshots/restaurant-detail.png -->)
+![Restaurant Detail](./public/Checkout_Page.png)
 
 ---
 
@@ -97,32 +97,33 @@ Order summary with delivery details form.
 ### Order Status Page
 Real-time order tracking with progress indicator.
 
-![Order Status](<!-- Add screenshot: screenshots/order-status.png -->)
+![Order Status](./public/Order_Placed.png)
 
 ---
 
 ### User Profile Page
 User profile management with delivery address settings.
 
-![User Profile](<!-- Add screenshot: screenshots/user-profile.png -->)
+![User Profile](./public/User_Profile_Page.png)
 
 ---
 
 ### Restaurant Management Dashboard
 Restaurant owner dashboard with orders and restaurant settings tabs.
 
-![Manage Restaurant - Orders](<!-- Add screenshot: screenshots/manage-restaurant-orders.png -->)
+![Manage Restaurant - Orders](./public/Restaurant_Page.png)
 
-![Manage Restaurant - Settings](<!-- Add screenshot: screenshots/manage-restaurant-settings.png -->)
+![Manage Restaurant - Settings](./public/Admin_DashBoard.png)
 
 ---
 
 ### Mobile Responsive Views
 Mobile navigation and responsive layouts.
 
-![Mobile Home](<!-- Add screenshot: screenshots/mobile-home.png -->)
-
-![Mobile Menu](<!-- Add screenshot: screenshots/mobile-menu.png -->)
+<div align="center">
+  <img src="./public/Mobile-Responsive-1.png" alt="Mobile Home" width="40%" />
+  <img src="./public/Mobile-Responsive-2.png" alt="Mobile Menu" width="40%" />
+</div>
 
 ---
 
