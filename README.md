@@ -87,10 +87,16 @@ Individual restaurant view with menu items and order summary.
 
 ---
 
-### Shopping Cart & Checkout
+### Shopping Cart
 Order summary with delivery details form.
 
-![Checkout](<!-- Add screenshot: screenshots/checkout.png -->)
+![Shopping Cart](./public/Checkout_Page.png)
+
+---
+
+### Checkout Page
+Checkout page with payment options.
+![Checkout Page](./public/Payment_Page.png)
 
 ---
 
